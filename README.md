@@ -19,7 +19,7 @@ An interactive **Streamlit** app that clusters and recommends Netflix shows usin
 
 ## 📸 Preview
 
-![App Screenshot](https://user-images.githubusercontent.com/output.png)  
+![App Screenshot](./data/output.png)  
 
 ---
 
