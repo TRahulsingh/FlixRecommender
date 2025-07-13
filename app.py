@@ -13,7 +13,7 @@ import seaborn as sns
 
 # Load TMDB API Key
 load_dotenv()
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
+TMDB_API_KEY = st.secrets["TMDB_API_KEY"] if "TMDB_API_KEY" in st.secrets else os.getenv("TMDB_API_KEY")
 
 # ------------------ Helper Functions ------------------
 def get_poster(title):
