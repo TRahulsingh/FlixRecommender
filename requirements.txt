@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+requests
+rapidfuzz
+python-dotenv
