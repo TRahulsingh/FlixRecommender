@@ -25,7 +25,7 @@ An interactive **Streamlit** app that clusters and recommends Netflix shows usin
 
 ## 🚀 Live Deploed Model
 
-👉 [s.app]()
+👉 [s.app](https://flixrecommender.streamlit.app/)
 
 ---
 
@@ -107,7 +107,6 @@ The dataset includes:
 
 - 🔒 User login and personal watchlists  
 - 📊 Add content-based or collaborative filtering  
-- 📂 Deploy as a hosted web app (Streamlit Cloud or Hugging Face Spaces)  
 
 ---
 
