@@ -5,6 +5,12 @@ An interactive **Streamlit** app that clusters and recommends Netflix shows usin
 
 ---
 
+## 📸 Preview
+
+![App Screenshot](./data/output.png)  
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Smart Search** with fuzzy matching using `rapidfuzz`
@@ -17,9 +23,9 @@ An interactive **Streamlit** app that clusters and recommends Netflix shows usin
 
 ---
 
-## 📸 Preview
+## 🚀 Live Deploed Model
 
-![App Screenshot](./data/output.png)  
+👉 [s.app]()
 
 ---
 
